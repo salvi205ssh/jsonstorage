@@ -1,0 +1,7 @@
+<form>
+  <label for="name">Nombre</label>
+  <input type="text" id="name" name="name" ngModel #nombre />
+  <button type="submit" (click)="loginUser(nombre.value)">Iniciar sesión</button>
+</form>
+
+  

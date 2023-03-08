@@ -1,0 +1,256 @@
+{
+  "comics": [
+    {
+      "id": 1,
+      "username": "Maria",
+      "title": "Watchmen",
+      "author": "Alan Moore",
+      "year": "1986"
+    },
+    {
+      "id": 2,
+      "username": "Maria",
+      "title": "El Eterno",
+      "author": "Neil Gaiman",
+      "year": "1989"
+    },
+    {
+      "id": 3,
+      "username": "Maria",
+      "title": "Bone",
+      "author": "Jeff Smith",
+      "year": "1991"
+    },
+    {
+      "id": 5,
+      "username": "Maria",
+      "title": "Spider-Man: La última cacería de Kraven",
+      "author": "J.M. DeMatteis, Mike Zeck",
+      "year": "1987"
+    },
+    {
+      "id": 6,
+      "username": "Maria",
+      "title": "Superman: All-Star",
+      "author": "Grant Morrison, Frank Quitely",
+      "year": "2005"
+    },
+    {
+      "id": 7,
+      "username": "Elena",
+      "title": "Batman: Año Uno",
+      "author": "Frank Miller, David Mazzucchelli",
+      "year": "1987"
+    },
+    {
+      "id": 8,
+      "username": "Elena",
+      "title": "Daredevil: Nacido de Nuevo",
+      "author": "Frank Miller, David Mazzucchelli",
+      "year": "1986"
+    },
+    {
+      "id": 9,
+      "username": "Elena",
+      "title": "Marvels",
+      "author": "Kurt Busiek, Alex Ross",
+      "year": "1994"
+    },
+    {
+      "id": 10,
+      "username": "Elena",
+      "title": "Linterna Verde/Flecha Verde",
+      "author": "Denny O'Neil, Neal Adams",
+      "year": "1970"
+    },
+    {
+      "id": 11,
+      "username": "Elena",
+      "title": "El Increíble Hulk: Futuro Imperfecto",
+      "author": "Peter David, George Perez",
+      "year": "1992"
+    },
+    {
+      "id": 12,
+      "username": "juan",
+      "title": "Aquaman: La Fosa",
+      "author": "Geoff Johns, Ivan Reis",
+      "year": "2011"
+    },
+    {
+      "id": 13,
+      "username": "juan",
+      "title": "Wolverine: Viejo Logan",
+      "author": "Mark Millar, Steve McNiven",
+      "year": "2008"
+    },
+    {
+      "id": 14,
+      "username": "juan",
+      "title": "Spider-Gwen",
+      "author": "Jason Latour, Robbi Rodriguez",
+      "year": "2015"
+    },
+    {
+      "id": 15,
+      "username": "juan",
+      "title": "Thor: Dios del Trueno",
+      "author": "Jason Aaron, Esad Ribic",
+      "year": "2012"
+    },
+    {
+      "id": 16,
+      "username": "juan",
+      "title": "Flash: El regreso de Barry Allen",
+      "author": "Mark Waid, Greg LaRocque",
+      "year": "1996"
+    },
+    {
+      "id": 17,
+      "username": "Miguel",
+      "title": "Gambito",
+      "author": "James Asmus, Clay Mann",
+      "year": "2012"
+    },
+    {
+      "id": 18,
+      "username": "Miguel",
+      "title": "Capitán América: El Soldado del Invierno",
+      "author": "Ed Brubaker, Steve Epting",
+      "year": "2005"
+    },
+    {
+      "id": 19,
+      "username": "Miguel",
+      "title": "Batgirl: Año Uno",
+      "author": "Scott Beatty, Chuck Dixon, Marcos Martin",
+      "year": "2003"
+    },
+    {
+      "id": 20,
+      "username": "Miguel",
+      "title": "Iron Man: Demonio en una botella",
+      "author": "David Michelinie, Bob Layton",
+      "year": "1979"
+    },
+    {
+      "id": 21,
+      "username": "Miguel",
+      "title": "Daredevil: El hombre sin miedo",
+      "author": "Frank Miller, John Romita Jr.",
+      "year": "1993"
+    },
+    {
+      "id": 22,
+      "username": "Sandra",
+      "title": "El Eterno: Preludios y Nocturnos",
+      "author": "Neil Gaiman, Sam Kieth, Mike Dringenberg",
+      "year": "1988"
+    },
+    {
+      "id": 23,
+      "username": "Sandra",
+      "title": "Pantera Negra: Una nación bajo nuestros pies",
+      "author": "Ta-Nehisi Coates, Brian Stelfreeze",
+      "year": "2016"
+    },
+    {
+      "id": 24,
+      "username": "Laura",
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "year": "1943"
+    },
+    {
+      "id": 25,
+      "username": "Juan",
+      "title": "1984",
+      "author": "George Orwell",
+      "year": "1949"
+    },
+    {
+      "id": 26,
+      "username": "Ana",
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": "1967"
+    },
+    {
+      "id": 27,
+      "username": "Carlos",
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "year": "1997"
+    },
+    {
+      "id": 28,
+      "username": "Luisa",
+      "title": "El código Da Vinci",
+      "author": "Dan Brown",
+      "year": "2003"
+    },
+    {
+      "id": 29,
+      "username": "Miguel",
+      "title": "El señor de los anillos",
+      "author": "J.R.R. Tolkien",
+      "year": "1954"
+    },
+    {
+      "id": 30,
+      "username": "Sara",
+      "title": "Los juegos del hambre",
+      "author": "Suzanne Collins",
+      "year": "2008"
+    },
+    {
+      "id": 31,
+      "username": "Diego",
+      "title": "La sombra del viento",
+      "author": "Carlos Ruiz Zafón",
+      "year": "2001"
+    },
+    {
+      "id": 32,
+      "username": "Elena",
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "year": "1813"
+    },
+    {
+      "id": 33,
+      "username": "Pablo",
+      "title": "Drácula",
+      "author": "Bram Stoker",
+      "year": "1897"
+    },
+    {
+      "id": 34,
+      "username": "Lucía",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "year": "1818"
+    },
+    {
+      "id": 35,
+      "username": "Jorge",
+      "title": "El perfume",
+      "author": "Patrick Süskind",
+      "year": "1985"
+    },
+    {
+      "id": 36,
+      "username": "Marta",
+      "title": "La metamorfosis",
+      "author": "Franz Kafka",
+      "year": "1915"
+    },
+    {
+      "id": 37,
+      "username": "Fernando",
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes Saavedra",
+      "year": "1605"
+    }
+  ]
+}
